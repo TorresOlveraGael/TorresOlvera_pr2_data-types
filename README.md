@@ -1,5 +1,7 @@
 # TorresOlvera_pr2_data-types
 
+Este codigo define el tipo de valor de la variable
+
 Torres Olvera Gael
 
 #En esta practica definiremos el tipo de variable que establecimos

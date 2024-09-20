@@ -34,5 +34,6 @@ print (type(e)) #Se imprime en la pantalla el tipo de dato
 
 print (type(f)) #Se imprime en la pantalla el tipo de dato
 
-![image](https://github.com/user-attachments/assets/31f03653-03db-493f-aef6-403554e242a9)
+![image](https://github.com/user-attachments/assets/e53f6513-2f57-4563-90c4-a7144f39e2d3)
+
 
